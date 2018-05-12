@@ -1,0 +1,30 @@
+_repo: Life-in-a-Railway-Factory_40975
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40975-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Williams, Alfred
+    alias: Williams, Owen Alfred
+    birthdate: 1877
+    deathdate: 1930
+    gutenberg_agent_id: '40920'
+    url: http://www.gutenberg.org/2009/agents/40920
+description: ''
+gutenberg_issued: '2012-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40975'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Western Railway (Great Britain) -- Employees'
+- !lcc 'HD'
+- !lcsh 'Railroads -- Employees'
+- !lcsh 'Working class -- Great Britain'
+- !lcsh 'Railroads -- Great Britain -- Employees'
+title: Life in a Railway Factory
+url: http://www.gutenberg.org/ebooks/40975
