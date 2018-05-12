@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40920'
     url: http://www.gutenberg.org/2009/agents/40920
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40975#Life-in-a-Railway-Factory
 gutenberg_issued: '2012-10-08'
 gutenberg_type: Text
 identifiers:
